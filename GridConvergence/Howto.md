@@ -4,7 +4,7 @@ https://www.ngs.noaa.gov/NCAT/
 
 The NCAT webpage allows you to convert coordinates and at the same time will calculate grid convergence as part of the output.
 
-A description of file format for doing multipoint conversion is found here:
+A description of the upload file format for doing multipoint conversion is found here:
 
 https://www.ngs.noaa.gov/NCAT/readme_upload.txt
 

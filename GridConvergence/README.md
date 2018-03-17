@@ -1,3 +1,4 @@
+
 Use the link below to do grid convergence:
 
 https://www.ngs.noaa.gov/NCAT/
@@ -11,7 +12,9 @@ https://www.ngs.noaa.gov/NCAT/readme_upload.txt
 Here is an example:
 
 ID,lat,lon,eht,inDatum,outDatum,spcZone,utmZone
+
 ABCD,37.393300000,-92.459040000,0.0,NAD83(1986),NAD83(2011),2401,auto
+
 EFGH,37.393300000,-96.0,0.0,NAD83(1986),NAD83(2011),auto,15
 
 The important columns are ‘spcZone’ and ‘utmZone.’  By putting ‘auto’ in either, the system will make its best guess at the target zone based on the ‘outDatum.’  To set the ‘spcZone’ directly, for example, the codes may be looked up in the COUNTYSPC.XLS in this repository.  The columns are ‘SPC27’ and ‘SPC83’ in the COUNTYSPC.XLS file.  The same may be done for the utm zones.  The codes are in the column ‘UTM.’

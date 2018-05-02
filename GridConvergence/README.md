@@ -29,4 +29,4 @@ Both single and multiple locations can be converted at a time.  The results can 
 
 =VALUE(MID(Y5, 1, FIND(" ",Y5, 1)-1))+VALUE(MID(Y3, FIND(" ",Y3, 1)+1,2))/60+VALUE(MID(Y4, FIND(" ",Y4, 1)+3,16))/3600
 
-![alt text](DMBTools-Toolkit/GridConvergence/img/Grid Convergence.png "Grid Convergence")
+![alt text](https://github.com/dmbaker/DMBTools-Toolkit/blob/master/GridConvergence/img/Grid%20Convergence.png "Grid Convergence")

@@ -29,6 +29,7 @@ Both single and multiple locations can be converted at a time.  The results can 
 
 =VALUE(MID(Y5, 1, FIND(" ",Y5, 1)-1))+VALUE(MID(Y3, FIND(" ",Y3, 1)+1,2))/60+VALUE(MID(Y4, FIND(" ",Y4, 1)+3,16))/3600
 
+Key reference files and examples are included in this repository to help find input values and demonstrate formatting.
 
 #### Figure 1.
 ![alt text](https://github.com/dmbaker/DMBTools-Toolkit/blob/master/GridConvergence/img/Grid%20Convergence.png "Grid Convergence")

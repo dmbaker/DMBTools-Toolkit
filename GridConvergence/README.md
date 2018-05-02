@@ -1,3 +1,6 @@
+## Grid Convergence Calculations
+### David M. Baker, PG
+### April 2018
 
 Use the link below to do grid convergence:
 

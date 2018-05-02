@@ -2,6 +2,10 @@
 ### David M. Baker, PG
 ### April 2018
 
+Grid convergence is an important value that is not always readily available to many users. Some geoscience applications need grid convergence to properly map wellbore paths. NOAA’s National Geodetic Survey (NGS) has a point conversion web service that not only converts points between coordinate systems, but also reports the grid convergence and scale factor of the targeted coordinate locations.
+
+Users can convert single points or multiple points at a time and can download the results in various formats. A REST endpoint to the service is also available for advanced applications. This is a good resource.
+
 Use the link below to do grid convergence:
 
 https://www.ngs.noaa.gov/NCAT/
